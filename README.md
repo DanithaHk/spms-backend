@@ -71,8 +71,8 @@ The **Smart Parking Management System (SPMS)** is a **cloud-native microservice-
 
 Start services in the following order:
 
-1. 🧾 `config-server`  
-2. 📘 `eureka-server`  
+1. 📘 `eureka-server`
+2. 🧾 `config-server`   
 3. 🚪 `api-gateway`
 
 Then start the business microservices:
@@ -109,7 +109,7 @@ This project is licensed for educational purposes under the [MIT License](LICENS
 
 | Name            | Role                   |
 |-----------------|------------------------|
-| Danitha Dinuwan | Developer & Architect  |
+| Danitha Dinuwan | Developer              |
 
 ---
 
@@ -119,7 +119,7 @@ This project is licensed for educational purposes under the [MIT License](LICENS
 > University / Institute: *IJSE - Graduate Diploma in Software Engineering*  
 > 💡 *Empowering Smart Cities through Scalable Software Solutions*  
 > 📆 Year: 2025  
-> 📫 Contact: [danithadinuwan@example.com](mailto:danithadinuwan@example.com)
+> 📫 Contact: [danithahk@gmail.com](mailto:danithahk@gmail.com)
 
 ---
 
