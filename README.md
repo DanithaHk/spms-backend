@@ -87,12 +87,6 @@ Then start the business microservices:
 1. Import the Postman collection:  
    `smart_parking_management_system.postman_collection.json`
 
-2. Test API operations like:
-   - `POST /api/v1/users/register`
-   - `POST /api/v1/users/login`
-   - `POST /api/v1/vehicles/add`
-   - `GET /api/v1/parking/available`
-   - `POST /api/v1/payments/create`
 
 ---
 
